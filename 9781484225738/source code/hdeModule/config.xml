@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>hdeModule</name>
+	<displayName><![CDATA[Havana Digital Enterprises Module]]></displayName>
+	<version><![CDATA[1]]></version>
+	<description><![CDATA[Reservation, booking system for HDE.]]></description>
+	<author><![CDATA[Arnaldo Perez]]></author>
+	<tab><![CDATA[Products]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
